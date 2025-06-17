@@ -1,0 +1,15 @@
+numpy
+pandas
+joblib
+tensorflow
+streamlit
+streamlit-excel-table
+streamlit-echarts
+matplotlib
+openpyxl
+opencv-python
+scikit-learn
+cvzone
+Pillow
+tensorflow
+mediapipe
